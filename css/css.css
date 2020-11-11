@@ -3,6 +3,10 @@
 
 /*Barre de navigation*/
 
+li a.twitch {
+ color: purple;   
+}
+
 ul.nav {
     list-style-type: none;
     margin: 0;
